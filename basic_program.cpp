@@ -7,6 +7,7 @@ int factorial(int n) {
     return fact;
 }
 
+
 void fibonacci(int n) {
     int a = 0, b = 1, c;
     cout << "Fibonacci sequence: ";
@@ -19,12 +20,12 @@ void fibonacci(int n) {
     cout << endl;
 }
 
+
 int main() {
     int n;
     cout << "Enter a number: ";
     cin >> n;
     cout << "Factorial of " << n << " = " << factorial(n) << endl;
-    fibonacci(n);
+
     return 0;
 }
-
