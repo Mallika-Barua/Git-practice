@@ -1,4 +1,4 @@
-# Git Assignment – My Work
+# Git practice – My Work
 
 ## Repository Overview
 In this repository I practiced different Git commands starting from basic to advanced level.  
